@@ -1,4 +1,4 @@
-test
+java基础知识记录
 ====
 
-TEST git
+java 点滴记录。
